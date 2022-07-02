@@ -1,4 +1,5 @@
 # quick_ss
 
-<h2>Live Link</h2>
-🟢 <a target="_blank" href="https://gmsakibursabbir.github.io/quick_ss/">Live Link</a>
+<h3>Live Link</h3> 
+
+🟢 https://gmsakibursabbir.github.io/quick_ss/
